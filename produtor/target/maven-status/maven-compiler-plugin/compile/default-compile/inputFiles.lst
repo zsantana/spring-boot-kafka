@@ -1,7 +1,0 @@
-/home/rsantana/projetos/spring-boot/kafka/produtor/src/main/java/br/com/kafka/demo/DemoApplication.java
-/home/rsantana/projetos/spring-boot/kafka/produtor/src/main/java/br/com/kafka/demo/controller/ProdutorController.java
-/home/rsantana/projetos/spring-boot/kafka/produtor/src/main/java/br/com/kafka/demo/dto/PayloadDTO.java
-/home/rsantana/projetos/spring-boot/kafka/produtor/src/main/java/br/com/kafka/demo/dto/RequestDTO.java
-/home/rsantana/projetos/spring-boot/kafka/produtor/src/main/java/br/com/kafka/demo/dto/ResponseDTO.java
-/home/rsantana/projetos/spring-boot/kafka/produtor/src/main/java/br/com/kafka/demo/exception/KafkaErroHandler.java
-/home/rsantana/projetos/spring-boot/kafka/produtor/src/main/java/br/com/kafka/demo/kafka/ProdutorKafka.java

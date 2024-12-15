@@ -1,7 +1,0 @@
-br/com/kafka/demo/kafka/ProdutorKafka.class
-br/com/kafka/demo/exception/KafkaErroHandler.class
-br/com/kafka/demo/dto/ResponseDTO.class
-br/com/kafka/demo/controller/ProdutorController.class
-br/com/kafka/demo/dto/RequestDTO.class
-br/com/kafka/demo/DemoApplication.class
-br/com/kafka/demo/dto/PayloadDTO.class
